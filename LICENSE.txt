@@ -1,0 +1,9 @@
+The contents of this file are Open Source.  They may be freely
+copied, used or enhanced in any way without restriction provided
+acknowledgement of the original author is included in all
+distributions of any derivative works.  This file is intended
+as an example tutorial only and is distributed on an "AS IS"
+basis, WITHOUT WARRANTY OF ANY KIND, either express or implied.
+The software is not guaranteed to work, nor is the author
+liable for any damage or lost opportunity caused by the use of
+this software.  
